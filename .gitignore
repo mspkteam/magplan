@@ -1,0 +1,21 @@
+# Ignore WordPress uploads (IMPORTANT - do not track media files)
+uploads/
+
+# Ignore cache, backups, and temporary files
+cache/
+upgrade/
+backup/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (for future Gutenberg block development)
+node_modules/
+
+# Optional: ignore editor/system folders
+.vscode/
+.idea/
